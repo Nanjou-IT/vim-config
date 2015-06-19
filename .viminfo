@@ -1,0 +1,725 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/toolch
+
+# Historique ligne de commande (chronologie décroissante) :
+:q
+:wq
+:w
+:wq!
+:q!
+:w!
+:Q
+:q!*
+:qq
+::q
+:Q!
+:set ft=python
+:set ft=c
+:set n
+:set nu
+:wq*
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/kernel
+?/clonage
+?/toolch
+?/tollch
+?/figaro
+?/object
+?/sz_macAddrRead
+?/ifreq
+?/PATH
+?/changed
+?/SubscribeForWPSEvents
+?/Query failed
+?/existin
+?/BO
+?/Bo
+?/BOO
+?/CP
+?/BOOT
+?/privateVapNames
+?/wlan_vap_generateSelfPIN
+?/var/lib/rabbitmq/erl_crash.dump 
+?/p4
+?/STBINFO_Pr
+?/STBINFO_stbinfo_params
+?/HNSA_S
+?/STB
+?/MANUFACTURER
+?/DISK
+?/ihd
+?/IHD
+?/sagem
+?/existing_task_queue
+?/hear
+?/inst
+?/Worker
+?/_064837_LK15015DP990
+?/060014_LK15015DP990280_
+?/Done
+?/10
+?/20
+?/else
+?/heart
+?/hert
+?/table.it
+?/13317
+?/unlink
+?/fclose
+?/$handle
+?/fopen
+?/$filename
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	%.o: %.c
+			$(CC) -c -o $@ $< $(CFLAGS)
+"1	LINE	0
+	
+"2	LINE	0
+	
+"3	LINE	0
+	gerrit-cache=git:/home/sah0224/gitcache,/home/sah0224/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/git
+"4	LINE	0
+	gerrit=git:ssh://sah0224@gerrit.be.softathome.com:29418,/home/sah0224/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/git
+"5	LINE	0
+	
+"6	LINE	0
+	gateway 192.168.1.1
+"7	LINE	0
+	broadcast 192.168.1.255
+"8	LINE	0
+	network 192.168.1.0
+"9	LINE	0
+	netmask 255.255.255.0
+""-	CHAR	0
+	s
+
+# Marques dans le fichier :
+'0  1  0  ~/.vimrc
+'1  96  4  ~/.zshrc
+'2  98  0  ~/.oh-my-zsh/oh-my-zsh.sh
+'3  92  10  ~/.zshrc
+'4  1  0  ~/.bashrc
+'5  1  0  ~/.zshrc
+'6  130  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils/string.h
+'7  5  0  ~/Bureau/questions
+'8  3  2  ~/Bureau/questions
+'9  1  0  ~/Bureau/que
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  0  ~/.vimrc
+-'  96  4  ~/.zshrc
+-'  7  0  ~/.zshrc
+-'  1  0  ~/.zshrc
+-'  98  0  ~/.oh-my-zsh/oh-my-zsh.sh
+-'  1  0  ~/.oh-my-zsh/oh-my-zsh.sh
+-'  92  10  ~/.zshrc
+-'  2  0  ~/.zshrc
+-'  1  0  ~/.bashrc
+-'  130  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils/string.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils/string.h
+-'  5  0  ~/Bureau/questions
+-'  1  0  ~/Bureau/questions
+-'  3  2  ~/Bureau/questions
+-'  1  0  ~/Bureau/que
+-'  30  0  ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/config/GEN/V6.1/PROJ/VODAFONE/REL/2015-06-16_V1.2.3/vodafone/poc-vf-pt/siligence-cut2/vf_multi_sip_normal/defconfig
+-'  1  0  ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/config/GEN/V6.1/PROJ/VODAFONE/REL/2015-06-16_V1.2.3/vodafone/poc-vf-pt/siligence-cut2/vf_multi_sip_normal/defconfig
+-'  8  4  ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/config/GEN/V6.1/PROJ/VODAFONE/REL/2015-06-16_V1.2.3/vodafone/poc-vf-pt/siligence-cut2/vf_multi_sip_normal/project.list
+-'  1  0  ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/config/GEN/V6.1/PROJ/VODAFONE/REL/2015-06-16_V1.2.3/vodafone/poc-vf-pt/siligence-cut2/vf_multi_sip_normal/project.list
+-'  7  92  ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/build/REL/2015-05-19_V8.9.17/server.cfg
+-'  1  0  ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/build/REL/2015-05-19_V8.9.17/server.cfg
+-'  1  0  ~/Bureau/xml~
+-'  7  15  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  1  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  5  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  6  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  3  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/known_hosts
+-'  2  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  3  108  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  4  93  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+-'  3  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/server.cfg
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/server.cfg
+-'  1110  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/defconfig
+-'  1  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/defconfig
+-'  60  44  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/project.list
+-'  1  0  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/project.list
+-'  59  20  ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/project.list
+-'  384  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/core/object.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/core/object.h
+-'  124  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils.h
+-'  134  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/lapin_download.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/lapin_download.h
+-'  352  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/dhcp/REL/2014-09-19_V1.15.0/server/src/dhcp_hints.c
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/dhcp/REL/2014-09-19_V1.15.0/server/src/dhcp_hints.c
+-'  53  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/ver.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/ver.h
+-'  231  8  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/nemo/REL/2015-01-14_V3.20.0/clients/bridge/bridge.c
+-'  173  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/nemo/REL/2015-01-14_V3.20.0/clients/bridge/bridge.c
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/nemo/REL/2015-01-14_V3.20.0/clients/bridge/bridge.c
+-'  1  0  ~/Perforce/sah0224_ws_vodafone_MAIN_GUI/build/REL/2015-05-19_V8.9.17/server.cfg
+-'  244  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/settingsNetwork/settingsNetworkView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/settingsNetwork/settingsNetworkView.js
+-'  32  36  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/wifiMacFiltering/wifiMacFilteringView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/wifiMacFiltering/wifiMacFilteringView.js
+-'  169  48  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetTod/internetTodView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetTod/internetTodView.js
+-'  200  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetPortMapping/internetPortMappingView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetPortMapping/internetPortMappingView.js
+-'  90  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/phoneCallLog/phoneCallLogView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/phoneCallLog/phoneCallLogView.js
+-'  169  0  /etc/rabbitmq/rabbitmq.config
+-'  1  0  /etc/rabbitmq/rabbitmq.config
+-'  175  0  /etc/rabbitmq/rabbitmq.config.example
+-'  1  0  /etc/rabbitmq/rabbitmq.config.example
+-'  175  0  /etc/rabbitmq/rabbitmq.config
+-'  32  0  ~/Bureau/key.pub
+-'  1  0  ~/Bureau/key.pub
+-'  41  4  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetDns/internetDnsView.js
+-'  57  47  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetDns/internetDnsView.js
+-'  69  22  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetDns/internetDnsView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetDns/internetDnsView.js
+-'  1  0  /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/phoneSip/phoneSipView.js
+-'  74  8  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  364  4  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  382  6  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  330  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  133  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  13  2  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi.c
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi.c
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_core.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi.h
+-'  1  0  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_rue.h
+-'  39  43  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  359  16  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  48  125  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  51  59  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  52  91  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  53  85  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  63  44  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  65  103  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  66  90  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  67  120  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  70  44  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  72  54  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+-'  73  90  ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.vimrc
+	"	1	0
+
+> ~/.zshrc
+	"	96	4
+	^	97	43
+	.	96	0
+	+	34	13
+	+	33	0
+	+	34	0
+	+	32	0
+	+	30	0
+	+	30	0
+	+	30	0
+	+	30	0
+	+	26	0
+	+	25	0
+	+	24	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	16	0
+	+	16	76
+	+	16	0
+	+	16	0
+	+	16	0
+	+	16	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	36	0
+	+	36	0
+	+	42	42
+	+	30	0
+	+	16	0
+	+	30	0
+	+	27	0
+	+	43	0
+	+	8	17
+	+	9	0
+	+	8	0
+	+	9	0
+	+	8	15
+	+	91	149
+	+	91	0
+	+	85	0
+	+	85	0
+	+	84	0
+	+	85	0
+	+	86	0
+	+	87	0
+	+	88	0
+	+	89	0
+	+	90	0
+	+	91	0
+	+	92	10
+	+	97	0
+	+	96	0
+
+> ~/.oh-my-zsh/oh-my-zsh.sh
+	"	98	0
+
+> ~/.bashrc
+	"	1	0
+	^	118	8
+	.	118	7
+	+	117	33
+	+	116	29
+	+	118	7
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils/string.h
+	"	130	0
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/project.list
+	"	11	4
+	^	60	45
+	.	60	45
+	+	60	45
+
+> ~/Bureau/install.sh
+	"	39	0
+	^	38	1
+	.	38	0
+	+	38	0
+
+> ~/.profile
+	"	1	0
+
+> sah/.bashrc
+	"	1	0
+
+> /opt/softathome/toolchain/bcm96xx-mips-linux-uclibc-gcc4.6.2-uclibc0.9.32/usr/.bashrc
+	"	1	0
+
+> ~/Bureau/questions
+	"	5	0
+	^	4	40
+	.	4	39
+	+	4	28
+	+	4	28
+	+	2	0
+	+	3	30
+	+	4	39
+
+> ~/Bureau/que
+	"	1	0
+
+> ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/config/GEN/V6.1/PROJ/VODAFONE/REL/2015-06-16_V1.2.3/vodafone/poc-vf-pt/siligence-cut2/vf_multi_sip_normal/defconfig
+	"	30	0
+
+> ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/sah_kernel_broadcom/shared/opensource/include/bcm963xx/bcm_hwdefs.h
+	"	401	15
+
+> ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/config/GEN/V6.1/PROJ/VODAFONE/REL/2015-06-16_V1.2.3/vodafone/poc-vf-pt/siligence-cut2/vf_multi_sip_normal/project.list
+	"	8	4
+
+> ~/Perforce/sah0224_ws_hgw_vf_1.2.3_figaro/build/REL/2015-05-19_V8.9.17/server.cfg
+	"	7	92
+	^	7	93
+	.	7	85
+	+	1	56
+	+	2	49
+	+	3	85
+	+	4	75
+	+	5	94
+	+	6	78
+	+	7	85
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/pro
+	"	1	0
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/server.cfg
+	"	1	0
+	^	7	16
+	.	7	15
+	+	1	68
+	+	2	68
+	+	3	99
+	+	4	89
+	+	5	108
+	+	5	29
+	+	7	97
+	+	2	6
+	+	1	6
+	+	4	24
+	+	3	12
+	+	5	21
+	+	5	27
+	+	3	112
+	+	4	102
+	+	5	121
+	+	5	105
+	+	7	110
+	+	5	0
+	+	6	0
+	+	5	118
+	+	6	116
+	+	6	31
+	+	7	107
+	+	5	0
+	+	7	0
+	+	4	99
+	+	3	109
+	+	1	1
+	+	2	0
+	+	7	15
+	+	5	0
+	+	6	0
+	+	5	0
+	+	6	0
+	+	5	0
+	+	7	15
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_06.10.19_figaro/build/REL/2015-05-15_V8.7.24/server.cfg
+	"	6	38
+	^	6	39
+	.	7	101
+	+	1	65
+	+	2	65
+	+	3	101
+	+	4	91
+	+	5	110
+	+	6	94
+	+	7	101
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/sah/services/figaro/DEV/STB_INTEGRATION_TESTS/Component.dep
+	"	1	0
+
+> ~/.p4config
+	"	1	10
+	^	1	11
+	.	1	10
+	+	2	0
+	+	1	7
+	+	2	13
+	+	1	10
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/build/REL/2015-05-29_V8.9.18/README
+	"	58	0
+
+> ~/Bureau/xml~
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/server.cfg.sample
+	"	7	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/server.cfg
+	"	3	0
+
+> ~/.ssh/known_hosts
+	"	3	0
+
+> ~/Perforce/sah0224_ws_hgw_swisscom_07.00.11_figaro/config/GEN/V7.0/PROJ/SWISSCOM/REL/2015-06-16_V07.00.11/swisscom/stargate/siligence-cut2/swisscom_multi_sip_normal/defconfig
+	"	1110	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/core/object.h
+	"	384	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/include/pcb/utils.h
+	"	124	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/lapin_download.h
+	"	134	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netdev/REL/2014-07-30_V1.27.1/plugin/util.h
+	"	23	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netdev/REL/2014-07-30_V1.27.1/plugin/gre.c
+	"	105	20
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/dnsplugin/REL/2014-06-11_V1.6.2/client/main.c
+	"	71	0
+
+> ~/Perforce/WS_sah0224_stb_intel_generic_figaro03/components/lib/libqosdata/DEV/sah0224_figaro/src/QosData.c
+	"	262	13
+
+> ~/Perforce/WS_sah0224_stb_intel_generic_figaro03/components/lib/libgbusbindings/REL/2015-02-13_V1.0.80/src/gbus_bindings.c
+	"	505	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/dhcp/REL/2014-09-19_V1.15.0/server/src/dhcp_hints.c
+	"	352	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/ver.h
+	"	53	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/nemo/REL/2015-01-14_V3.20.0/clients/bridge/bridge.c
+	"	231	8
+
+> ~/Perforce/sah0224_ws_vodafone_MAIN_GUI/build/REL/2015-05-19_V8.9.17/server.cfg
+	"	7	0
+	^	7	70
+	.	7	0
+	+	8	0
+	+	7	103
+	+	7	0
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/settingsNetwork/settingsNetworkView.js
+	"	244	0
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/wifiMacFiltering/wifiMacFilteringView.js
+	"	32	36
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetTod/internetTodView.js
+	"	169	48
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetPortMapping/internetPortMappingView.js
+	"	200	0
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/phoneCallLog/phoneCallLogView.js
+	"	90	0
+
+> /etc/rabbitmq/rabbitmq.config
+	"	169	0
+	^	152	19
+	.	152	18
+	+	152	23
+	+	151	5
+	+	152	18
+
+> /etc/rabbitmq/rabbitmq.config.example
+	"	175	0
+
+> ~/Bureau/key.pub
+	"	32	0
+	^	32	0
+	.	31	34
+	+	31	34
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/internetDns/internetDnsView.js
+	"	41	4
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/ctxt/phoneSip/phoneSipView.js
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_pcb.c
+	"	74	8
+
+> /etc/crontab
+	"	1	0
+
+> ~/Bureau/NewTests/server/probe_server_logtodb_parser.php
+	"	135	5
+	^	16	15
+	.	16	14
+	+	17	0
+	+	16	33
+	+	15	14
+	+	15	0
+	+	14	14
+	+	16	14
+
+> ~/Bureau/TestsBoard/publisher.py
+	"	36	8
+	^	37	49
+	.	37	48
+	+	34	28
+	+	35	40
+	+	39	0
+	+	38	16
+	+	37	48
+
+> ~/Bureau/TestsBoard/20150428_201720_LK15050DP990094_probe_log.txt.PARSING
+	"	14	25
+
+> ~/Bureau/TestsBoard/20150428_211720_LK15050DP990094_probe_log.txt.PARSING
+	"	1	0
+
+> ~/Bureau/TestsBoard/20150428_231720_LK15050DP990094_probe_log.txt.PARSING
+	"	1	0
+
+> ~/Bureau/TestsBoard/20150429_121721_LK15050DP990094_probe_log.txt.PARSING
+	"	1	0
+
+> ~/Bureau/TestsBoard/20150429_131721_LK15050DP990094_probe_log.txt.PARSING
+	"	158	25
+
+> ~/Bureau/TestsBoard/20150429_141721_LK15050DP990094_probe_log.txt.PARSING
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi.c
+	"	13	2
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_core.h
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi.h
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/sah/services/netmodeconfig/GEN/V6.1/PROJ/VODAFONE/REL/2015-04-28_V1.1.0/ng/wifi/wifi_rue.h
+	"	1	0
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/lib/contextManager.js
+	"	43	0
+
+> /etc/network/interfaces
+	"	3	0
+	.	4	0
+	+	4	0
+	+	4	0
+	+	4	8
+	+	4	0
+	+	4	0
+
+> ~/Perforce/workspace_figaroSGT_02W/sah/services/netmodeconfig/REL/2014-07-10_V5.10.7/ng/wifi/wifi_pcb.c
+	"	313	0
+
+> ~/Perforce/workspace_figaroSGT_02W/sah/services/netmodeconfig/REL/2014-07-10_V5.10.7/ng/wifi/wifi_plugin.odl
+	"	94	0
+
+> ~/Perforce/workspace_figaroSGT_02W/sah/services/nemo/REL/2014-07-18_V3.8.0/modules/wlan/vap.c
+	"	177	19
+
+> ~/Perforce/workspace_figaroSGT_02W/sah/services/nemo/REL/2014-07-18_V3.8.0/mibs/wlanvap.odl
+	"	1	0
+
+> ~/.bash_history
+	"	1639	0
+
+> ~/history
+	"	1	0
+
+> /var/log/dpkg.log
+	"	2130	0
+
+> /var/log/apt/history.log
+	"	92	0
+
+> /var/log/apt/term.log
+	"	1	0
+
+> ~/Perforce/WS_sah0224_stb_intel_generic_figaro03/components/lib/liblapin/REL/2015-02-05_V1.1.123/src/STBINFO/SRC/stbinfo.c
+	"	26	0
+
+> ~/Documents/setting proxy
+	"	2	0
+
+> /var/www/app/services-and-applications/hgw-portal/playground/GEN/1.0/PROJ/VODAFONE/DEV/BASE/cat/interface/interfaceView.js
+	"	1	0
+
+> /var/tmp/sah0224/.p4
+	"	1	0
+
+> /var/tmp/sah0224/.bashrc
+	"	1	0
+
+> /etc/apache2/sites-enabled/000-default.conf
+	"	12	51
+	^	12	52
+	.	12	22
+	+	12	22
+
+> /etc/apache2/apache2.conf
+	"	221	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/usr/include/stbinfo.h
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/components.config
+	"	14	18
+	^	14	38
+	.	14	0
+	+	14	0
+
+> ~/Perforce/WS_sah0224_stb_intel_generic_figaro03/stbconfig/DEV/sah0224_generic_intel_groveland_figaro/sah/generic/intel_groveland/release/defconfig
+	"	114	2
+	^	110	10
+	.	110	9
+	+	102	0
+	+	105	0
+	+	107	26
+	+	112	20
+	+	111	0
+	+	110	9
+
+> ~/Perforce/workspace_figaroSGT_02W/build/REL/2014-07-17_V8.2.1/output/staging/components.config
+	"	1949	33
+
+> output/release/config/defconfig
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/config/defconfig
+	"	93	27
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/rebuild_defconfig
+	"	62	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/components.config_m4.m4
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/components.config.m4
+	"	606	88
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/version
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/build/sef/sef.mk
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/build/components_resources_fonts_files.txt
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/config/hardco.cfg
+	"	1	0
+
+> ~/Perforce/workspace_figaroSGT_02W/build/REL/2014-07-17_V8.2.1/output/staging/usr/lib/transfers/upload/bulkdata_debuginfo.sh
+	"	103	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/etc/profile.d/xdg.sh
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/etc/profile.d/gstreamer-0.10.sh
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/etc/profile.d/qt5.sh
+	"	1	0
+
+> ~/Perforce/sah0224_ws_stb_intel_generic_figaro03/build/MAIN/output/staging/etc/init.d/mapper
+	"	9	0
+
+> ~/workspace/LocalTests/src/Makefile
+	"	15	18
+	^	15	19
+	.	15	18
+	+	16	0
+	+	8	9
+	+	3	16
+	+	4	18
+	+	6	8
+	+	8	9
+	+	10	0
+	+	6	15
+	+	7	0
+	+	15	18
